@@ -1,6 +1,6 @@
 Oi! Meu nome é Luiz Henrique!
 
-Aqui você vai encontrar quase todos os meus projetos, desde o início até a fase atual.
+Aqui você vai encontrar os meus projetos, desde o início até a fase atual.
 
 - 🌱 Atualmente cursando Sistemas de informação na FIAP
 - 📫 Email para contato : lh.netto@gmail.com  ou luiz.netto14@etec.sp.gov.br
