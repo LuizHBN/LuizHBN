@@ -6,7 +6,7 @@ Aqui você vai encontrar os meus projetos, desde o início até a fase atual.
 - 🌱 Atualmente cursando Sistemas de informação na FIAP
 - 📫 Email para contato : lh.netto11@gmail.com 
 - ⚡ Apaixonado por tecnologia desde criança, me encontrei na área.
-- 🎇 21 Anos 
+- 🎇 22 Anos 
 
 # Technologies and tools <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30px">
  
