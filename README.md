@@ -2,7 +2,8 @@
 
 Aqui você vai encontrar os meus projetos, desde o início até a fase atual.
 
-- 🌱 Atualmente cursando Sistemas de informação na FIAP
+- 💼 Atualmente trabalhando na Scania Latin America 🚛
+- 🌱 Cursando Sistemas de informação na FIAP
 - 📫 Email para contato : lh.netto11@gmail.com 
 - ⚡ Apaixonado por tecnologia desde criança, me encontrei na área.
 - 🎇 22 Anos 
